@@ -22,7 +22,7 @@ Foram criados seis protótipos para atender os requisitos solicitados, são eles
 
 ## Responsáveis pelo projeto
 
-Este projeto foi desenvolvido pelos alunos do terceiro ano do Tecnólogo de Sistemas para Internet do Centro Unisersitário Senac para a disciplina do Projeto Integrador: Desenvolvimento de Sistemas Dinâmicos Baseados na Web.
+Este projeto foi desenvolvido pelos alunos do terceiro semestre do Tecnólogo de Sistemas para Internet do Centro Unisersitário Senac para a disciplina do Projeto Integrador: Desenvolvimento de Sistemas Dinâmicos Baseados na Web.
 
 - CAROLINE COBUCCI GONÇALVES
 - VITOR MATHEUS SANCHES
