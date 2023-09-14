@@ -6,7 +6,13 @@ O projeto desenvolvido propõe a prototipação de uma modelagem de dados voltad
 
 A seguir vemos o diagrama de caso do Centro Universitário Canes, mostrando a relação entre os atores e a interação com o sistema:
 
-![diagrama](https://github.com/CaiorFeliciano/prototipos_canes/blob/main/diagrama_de_caso.png?raw=true)
+## Tecnologias utilizadas
+
+A tela de cadastro da universidade foi desenvolvida utilizando as seguintes tecnologias:
+
+Front-end: HTML, CSS, JavaScript, React
+Back-end: Node.js
+Banco de Dados: MongoDB
 
 ## Protótipos
 
@@ -41,7 +47,7 @@ Este projeto foi desenvolvido pelos alunos do terceiro semestre do Tecnólogo de
 - CAROLINE COBUCCI GONÇALVES
 - VITOR MATHEUS SANCHES
 - CAIO ROZZATTI FELICIANO
-- TASSIA SILVA MARTINHO XAVIER
+- TÁSSIA SILVA MARTINHO XAVIER
  
  
  
