@@ -10,8 +10,8 @@ A seguir vemos o diagrama de caso do Centro Universitário Canes, mostrando a re
 
 A tela de cadastro da universidade foi desenvolvida utilizando as seguintes tecnologias:
 
-Front-end: HTML, CSS, JavaScript, React
-Back-end: Node.js
+Front-end: HTML, CSS, JavaScript, React  
+Back-end: Node.js  
 Banco de Dados: MongoDB
 
 ## Protótipos
